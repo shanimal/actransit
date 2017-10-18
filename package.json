@@ -1,0 +1,22 @@
+{
+  "name": "actransit",
+  "version": "1.0.0",
+  "description": "This is my digital ocean test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shanimal/actransit.git"
+  },
+  "author": "shanimal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shanimal/actransit/issues"
+  },
+  "homepage": "https://github.com/shanimal/actransit#readme",
+  "dependencies": {
+    "satori-rtm-sdk": "^1.1.1"
+  }
+}
